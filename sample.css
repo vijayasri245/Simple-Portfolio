@@ -1,0 +1,40 @@
+/* stylesheet */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background-image: url('bg17.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #f9f9f9;
+}
+
+header {
+  background-color: #3b5998;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+}
+
+h1 {
+  margin-bottom: 10px;
+}
+
+p {
+  margin: 0 0 10px;
+}
+
+section {
+  padding: 20px;
+}
+
+footer {
+  background-color: #3b5998;
+  color: #fff;
+  text-align: center;
+  padding: 10px 0;
+}
+
+  
